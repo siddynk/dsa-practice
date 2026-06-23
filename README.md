@@ -1,4 +1,3 @@
-[DSA_README (1).md](https://github.com/user-attachments/files/29233756/DSA_README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=DSA%20Practice%20%F0%9F%92%A1&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
