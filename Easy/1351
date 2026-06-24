@@ -1,0 +1,55 @@
+/**
+ * Problem: Count Negative Numbers in a Sorted Matrix (LeetCode #1351)
+ * Difficulty: Easy
+ * Topic: Array, Binary Search, Matrix
+ * LeetCode: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+ *
+ * Approach: Staircase / Two-Pointer Traversal
+ * ─────────────────────────────────────────────
+ * Since rows and columns are both sorted in non-increasing order,
+ * we can exploit the structure using a staircase traversal:
+ *
+ *  - Start at the bottom-left corner (last row, first col)
+ *  - If current cell is negative → everything to the RIGHT in that row
+ *    is also negative (sorted), so add (cols - col) to count, then move UP
+ *  - If current cell is non-negative → move RIGHT to find the boundary
+ *
+ * This avoids checking every cell individually.
+ *
+ * Example:
+ *  grid = [[4, 3, 2, -1],
+ *           [3, 2, 1, -1],
+ *           [1, 1,-1, -2],
+ *           [-1,-1,-2, -3]]
+ *
+ *  Start at grid[3][0] = -1 → negative, count += (4-0)=4, row--
+ *  grid[2][0] = 1 → positive, col++
+ *  grid[2][1] = 1 → positive, col++
+ *  grid[2][2] = -1 → negative, count += (4-2)=2, row--
+ *  grid[1][2] = 1 → positive, col++
+ *  grid[1][3] = -1 → negative, count += (4-3)=1, row--
+ *  grid[0][3] = -1 → negative, count += (4-3)=1, row--
+ *  row < 0 → done. Total = 8 ✅
+ *
+ * Time Complexity:  O(m + n) — at most m+n steps (m rows, n cols)
+ * Space Complexity: O(1)    — no extra space used
+ */
+class Solution {
+    public int countNegatives(int[][] grid) {
+        int rows = grid.length;
+        int cols = grid[0].length;
+        int row = rows - 1;
+        int col = 0;
+        int negativeCount = 0;
+
+        while (row >= 0 && col < cols) {
+            if (grid[row][col] < 0) {
+                negativeCount += (cols - col); // Everything from 'col' to end of row is negative
+                row--;                          // Step up to evaluate the previous row
+            } else {
+                col++;                          // Move right to find the negative boundary
+            }
+        }
+        return negativeCount;
+    }
+}
