@@ -1,13 +1,12 @@
-name: Auto Organize LeetCode Questions
+name: Auto Organize Multi-Platform DSA
 
 on:
   push:
     branches:
       - main
     paths-ignore:
-      - 'Easy/**'
-      - 'Medium/**'
-      - 'Hard/**'
+      - 'LeetCode/**'
+      - 'GeeksforGeeks/**'
       - '.github/**'
 
 jobs:
@@ -20,25 +19,59 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Organize Folders By Difficulty
+      - name: Organize Folders By Platform and Difficulty
         run: |
-          mkdir -p Easy Medium Hard
+          mkdir -p LeetCode/Easy LeetCode/Medium LeetCode/Hard
+          mkdir -p GeeksforGeeks/School GeeksforGeeks/Basic GeeksforGeeks/Easy GeeksforGeeks/Medium GeeksforGeeks/Hard
+          
           for dir in */; do
             dir=${dir%/}
-            if [[ "$dir" == "Easy" || "$dir" == "Medium" || "$dir" == "Hard" || "$dir" == ".github" ]]; then
+            
+            # Skip parent structure folders
+            if [[ "$dir" == "LeetCode" || "$dir" == "GeeksforGeeks" || "$dir" == "Easy" || "$dir" == "Medium" || "$dir" == "Hard" || "$dir" == ".github" ]]; then
               continue
             fi
+            
             if [ -f "$dir/README.md" ]; then
               content=$(head -n 20 "$dir/README.md" | tr '[:upper:]' '[:lower:]')
-              if [[ "$content" == *"easy"* ]]; then
-                mv "$dir" "Easy/"
-              elif [[ "$content" == *"medium"* ]]; then
-                mv "$dir" "Medium/"
-              elif [[ "$content" == *"hard"* ]]; then
-                mv "$dir" "Hard/"
+              
+              # --- ROUTE TO LEETCODE ---
+              if [ -f "$dir/stats.json" ]; then
+                if [[ "$content" == *"easy"* ]]; then
+                  mv "$dir" "LeetCode/Easy/"
+                elif [[ "$content" == *"medium"* ]]; then
+                  mv "$dir" "LeetCode/Medium/"
+                elif [[ "$content" == *"hard"* ]]; then
+                  mv "$dir" "LeetCode/Hard/"
+                fi
+                
+              # --- ROUTE TO GEEKFORGEEKS ---
+              else
+                if [[ "$content" == *"school"* ]]; then
+                  mv "$dir" "GeeksforGeeks/School/"
+                elif [[ "$content" == *"basic"* ]]; then
+                  mv "$dir" "GeeksforGeeks/Basic/"
+                elif [[ "$content" == *"easy"* ]]; then
+                  mv "$dir" "GeeksforGeeks/Easy/"
+                elif [[ "$content" == *"medium"* ]]; then
+                  mv "$dir" "GeeksforGeeks/Medium/"
+                elif [[ "$content" == *"hard"* ]]; then
+                  mv "$dir" "GeeksforGeeks/Hard/"
+                else
+                  # Fallback default if tag parsing fails for a GFG problem
+                  mv "$dir" "GeeksforGeeks/"
+                fi
               fi
             fi
           done
+
+          # --- CLEAN UP OLD LOOSE TRACKING FOLDERS IF EMPTY ---
+          # Move older structures safely under LeetCode if they have loose files
+          if [ -d "Easy" ] && [ "$(ls -A Easy 2>/dev/null)" ]; then mv Easy/* LeetCode/Easy/ 2>/dev/null; fi
+          if [ -d "Medium" ] && [ "$(ls -A Medium 2>/dev/null)" ]; then mv Medium/* LeetCode/Medium/ 2>/dev/null; fi
+          if [ -d "Hard" ] && [ "$(ls -A Hard 2>/dev/null)" ]; then mv Hard/* LeetCode/Hard/ 2>/dev/null; fi
+          
+          rm -rf Easy Medium Hard
 
       - name: Commit and Push Changes
         run: |
@@ -48,6 +81,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new folders to organize."
           else
-            git commit -m "Auto-organized new LeetCode questions [skip ci]"
+            git commit -m "Migrate to clean LeetCode and GeeksforGeeks directory split [skip ci]"
             git push origin main
           fi
