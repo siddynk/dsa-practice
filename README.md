@@ -174,4 +174,12 @@ class Solution {
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/siddynk/dsa-practice/tree/master/0183-customers-who-never-order) |
+## Array
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddynk/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddynk/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
