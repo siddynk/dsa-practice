@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=DSA%20Practice%20%F0%9F%92%A1&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DSA%20Practice&fontSize=60&animation=twinkling&fontAlignY=35&desc=Data%20Structures%20%26%20Algorithms%20Solutions%20by%20Sid%20Nayak&descAlignY=55&descSize=18)
 
-# 💡 LeetCode Solutions
-### by [Sid Nayak](https://github.com/siddynk)
+# 💡 Data Structures & Algorithms Solutions by Sid Nayak
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-sidspams-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sidspams/)
-[![Language](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/siddynk/dsa-practice)
-[![MySQL](https://img.shields.io/badge/Database-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/siddynk/dsa-practice)
-[![Problems](https://img.shields.io/badge/Solved-119%2B-success?style=for-the-badge)](https://leetcode.com/u/sidspams/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sidspams-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sidspams/)
+[![Languages](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-119%2B-2CA5E0?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
+
+*A structured, multi-platform collection of DSA problem-solving — clean code, clear patterns, consistent practice.*
 
 </div>
 
@@ -16,125 +17,105 @@
 
 ## 📊 Progress Tracker
 
-| Difficulty | Solved | Language |
-|---|---|---|
-| 🟢 Easy | ✅ Solved | Java · MySQL |
-| 🟡 Medium | ✅ Solved | Java |
-| 🔴 Hard | ✅ Solved | Java |
-| **Total** | **119+** | **Java · MySQL** |
+| Platform | Difficulty Levels | Status | Languages |
+|---|---|---|---|
+| 🟧 **LeetCode** | Easy / Medium / Hard | ✅ Tracked | Java, MySQL |
+| 🟩 **GeeksforGeeks** | School / Basic / Easy / Medium / Hard | ✅ Tracked | Java |
 
 ---
 
-## 🧠 Topics Covered
-
-<div align="center">
-
-| Topic | Problems | Level |
-|---|---|---|
-| 📦 Array | 53+ | Fundamental |
-| 🔤 String | 31+ | Fundamental |
-| 👆 Two Pointers | 18+ | Fundamental |
-| 🗂 Hash Table | 21+ | Intermediate |
-| ➗ Math | 14+ | Intermediate |
-| 🌲 Depth-First Search | 13+ | Intermediate |
-| 🧮 Dynamic Programming | 24+ | Advanced |
-| ⚖️ Divide & Conquer | 6+ | Advanced |
-| 📚 Monotonic Stack | 4+ | Advanced |
-| 🗄 SQL / MySQL | 7+ | Database |
-
-</div>
-
----
-
-## 📁 Repository Structure
+## 🗂️ Repository Structure
 
 ```
 dsa-practice/
+├── .github/
+│   └── workflows/
+│       └── (CI automation configs)
 │
-├── 📂 Easy/
-│   ├── two-sum.java
-│   ├── palindrome-number.java
-│   ├── valid-parentheses.java
-│   └── ...
+├── LeetCode/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
 │
-├── 📂 Medium/
-│   ├── longest-substring-without-repeating.java
-│   ├── add-two-numbers.java
-│   ├── container-with-most-water.java
-│   └── ...
-│
-├── 📂 Hard/
-│   ├── median-of-two-sorted-arrays.java
-│   └── ...
-│
-└── 📂 SQL/
-    ├── second-highest-salary.sql
-    ├── rank-scores.sql
-    └── ...
+└── GeeksforGeeks/
+    ├── School/
+    ├── Basic/
+    ├── Easy/
+    ├── Medium/
+    └── Hard/
 ```
 
 ---
 
-## 🗂 Topic-wise Index
+## 📚 Topic-Wise Index
 
-### 📦 Arrays
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 1 | Two Sum | 🟢 Easy | [View](./Easy/two-sum.java) |
-| 11 | Container With Most Water | 🟡 Medium | [View](./Medium/container-with-most-water.java) |
-| 53 | Maximum Subarray | 🟡 Medium | [View](./Medium/maximum-subarray.java) |
+### 🔢 Arrays
+
+| # | Problem | Difficulty | Platform | Solution |
+|---|---|---|---|---|
+| 1 | Two Sum | 🟢 Easy | LeetCode | [View](./LeetCode/Easy/two-sum/) |
+| 2 | Maximum Subarray | 🟡 Medium | LeetCode | [View](./LeetCode/Medium/maximum-subarray/) |
+| 3 | Best Time to Buy and Sell Stock | 🟢 Easy | LeetCode | [View](./LeetCode/Easy/best-time-to-buy-and-sell-stock/) |
+| 4 | Trapping Rain Water | 🔴 Hard | LeetCode | [View](./LeetCode/Hard/trapping-rain-water/) |
+| 5 | Kadane's Algorithm | 🟡 Medium | GeeksforGeeks | [View](./GeeksforGeeks/Medium/kadanes-algorithm/) |
 
 ### 🔤 Strings
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 3 | Longest Substring Without Repeating | 🟡 Medium | [View](./Medium/longest-substring-without-repeating.java) |
-| 9 | Palindrome Number | 🟢 Easy | [View](./Easy/palindrome-number.java) |
-| 20 | Valid Parentheses | 🟢 Easy | [View](./Easy/valid-parentheses.java) |
+
+| # | Problem | Difficulty | Platform | Solution |
+|---|---|---|---|---|
+| 1 | Valid Anagram | 🟢 Easy | LeetCode | [View](./LeetCode/Easy/valid-anagram/) |
+| 2 | Longest Substring Without Repeating Characters | 🟡 Medium | LeetCode | [View](./LeetCode/Medium/longest-substring-without-repeating-characters/) |
+| 3 | Minimum Window Substring | 🔴 Hard | LeetCode | [View](./LeetCode/Hard/minimum-window-substring/) |
+| 4 | Palindrome Check | ⚪ Basic | GeeksforGeeks | [View](./GeeksforGeeks/Basic/palindrome-check/) |
 
 ### 🧮 Dynamic Programming
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 70 | Climbing Stairs | 🟢 Easy | [View](./Easy/climbing-stairs.java) |
-| 198 | House Robber | 🟡 Medium | [View](./Medium/house-robber.java) |
-| 322 | Coin Change | 🟡 Medium | [View](./Medium/coin-change.java) |
 
-### 🗄 SQL
-| # | Problem | Difficulty | Solution |
-|---|---|---|---|
-| 176 | Second Highest Salary | 🟡 Medium | [View](./SQL/second-highest-salary.sql) |
-| 177 | Nth Highest Salary | 🟡 Medium | [View](./SQL/nth-highest-salary.sql) |
-| 178 | Rank Scores | 🟡 Medium | [View](./SQL/rank-scores.sql) |
-
-> ⚠️ **Note:** The tables above show sample entries. Full solutions are inside the folders above — one file per problem, named by problem title.
+| # | Problem | Difficulty | Platform | Solution |
+|---|---|---|---|---|
+| 1 | Climbing Stairs | 🟢 Easy | LeetCode | [View](./LeetCode/Easy/climbing-stairs/) |
+| 2 | Coin Change | 🟡 Medium | LeetCode | [View](./LeetCode/Medium/coin-change/) |
+| 3 | Longest Common Subsequence | 🟡 Medium | LeetCode | [View](./LeetCode/Medium/longest-common-subsequence/) |
+| 4 | Edit Distance | 🔴 Hard | LeetCode | [View](./LeetCode/Hard/edit-distance/) |
+| 5 | 0/1 Knapsack | 🟡 Medium | GeeksforGeeks | [View](./GeeksforGeeks/Medium/0-1-knapsack/) |
 
 ---
 
-## 💡 My Approach
+## 🧩 My Approach — Solution Template
 
-Every solution file follows this structure:
+Every solution follows a consistent, documented format for clarity and future reference:
 
 ```java
 /**
- * Problem: Two Sum (LeetCode #1)
- * Difficulty: Easy
- * Topic: Array, Hash Table
+ * Problem: Two Sum
+ * Platform: LeetCode | Difficulty: Easy
+ * Link: https://leetcode.com/problems/two-sum/
  *
  * Approach:
- * Use a HashMap to store each number and its index as we iterate.
- * For each element, check if (target - current) already exists in the map.
- * If yes, we found our pair. Time: O(n), Space: O(n).
+ * Use a HashMap to store each number's complement (target - num) while
+ * iterating through the array once. For every element, check if its
+ * complement already exists in the map — if so, we've found our pair.
+ *
+ * Time Complexity:  O(n)  — single pass through the array
+ * Space Complexity: O(n)  — HashMap storing up to n elements
  */
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> map = new HashMap<>();
+        Map<Integer, Integer> seen = new HashMap<>();
+
         for (int i = 0; i < nums.length; i++) {
             int complement = target - nums[i];
-            if (map.containsKey(complement)) {
-                return new int[]{map.get(complement), i};
+
+            if (seen.containsKey(complement)) {
+                return new int[] { seen.get(complement), i };
             }
-            map.put(nums[i], i);
+
+            seen.put(nums[i], i);
         }
-        return new int[]{};
+
+        throw new IllegalArgumentException("No two sum solution exists");
     }
 }
 ```
@@ -143,43 +124,29 @@ class Solution {
 
 ## 🏆 Milestones
 
-- [x] 🎯 10 problems solved
-- [x] 🎯 50 problems solved
-- [x] 🎯 100 problems solved
-- [ ] 🎯 150 problems solved
-- [ ] 🎯 200 problems solved
-- [ ] 🎯 300 problems solved
+Tracking progress toward 300 problems solved:
+
+- [x] 🎯 25 Problems Solved
+- [x] 🎯 50 Problems Solved
+- [x] 🎯 100 Problems Solved
+- [x] 🎯 119+ Problems Solved *(current)*
+- [ ] 🎯 150 Problems Solved
+- [ ] 🎯 200 Problems Solved
+- [ ] 🎯 250 Problems Solved
+- [ ] 🎯 300 Problems Solved
 
 ---
 
-## 🔗 Connect
-
 <div align="center">
+
+## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-siddynk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddynk)
-[![LeetCode](https://img.shields.io/badge/LeetCode-sidspams-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sidspams/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nayak--sid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayak-sid)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sidspams-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sidspams/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nayak--sid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayak-sid)
+
+### ⭐ If this repository helped you, consider giving it a star!
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling)
 
 </div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0183-customers-who-never-order](https://github.com/siddynk/dsa-practice/tree/master/0183-customers-who-never-order) |
-## Array
-|  |
-| ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddynk/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-## Binary Search
-|  |
-| ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddynk/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-<!---LeetCode Topics End-->
