@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DSA%20Practice&fontSize=70&animation=twinkling&fontAlignY=35&desc=Data%20Structures%20%26%20Algorithms%20Solutions%20by%20Sid%20Nayak&descAlignY=55&descSize=18&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DSA%20Practice&fontSize=70&animation=twinkling&fontAlignY=35&desc=Data%20Structures%20and%20Algorithms%20Solutions%20by%20Sid%20Nayak&descAlignY=55&descSize=18&fontColor=ffffff)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Solving+one+problem+at+a+time+%F0%9F%9A%80;119%2B+Problems+Solved+%E2%9C%85;Java+%7C+MySQL+%7C+Clean+Code+%F0%9F%92%BB;LeetCode+%2B+GeeksforGeeks+Tracked+%F0%9F%93%8A" alt="Typing SVG" />
