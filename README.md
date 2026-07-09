@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=DSA%20Practice&amp;fontSize=70&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Data%20Structures%20%26%20Algorithms%20Solutions%20by%20Sid%20Nayak&amp;descAlignY=55&amp;descSize=18&amp;fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DSA%20Practice&fontSize=70&animation=twinkling&fontAlignY=35&desc=Data%20Structures%20%26%20Algorithms%20Solutions%20by%20Sid%20Nayak&descAlignY=55&descSize=18&fontColor=ffffff)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Solving+one+problem+at+a+time+%F0%9F%9A%80;119%2B+Problems+Solved+%E2%9C%85;Java+%7C+MySQL+%7C+Clean+Code+%F0%9F%92%BB;LeetCode+%2B+GeeksforGeeks+Tracked+%F0%9F%93%8A" alt="Typing SVG" />
@@ -8,15 +8,15 @@
 
 <br>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-sidspams-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white)](https://leetcode.com/sidspams/)
-[![Languages](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)](#)
-[![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)](#)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-119%2B-2CA5E0?style=for-the-badge&amp;logo=checkmarx&amp;logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sidspams-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sidspams/)
+[![Languages](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-119%2B-2CA5E0?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
-![Last Commit](https://img.shields.io/github/last-commit/siddynk/dsa-practice?style=flat-square&amp;color=6C63FF&amp;label=Last%20Updated)
-![Repo Size](https://img.shields.io/github/repo-size/siddynk/dsa-practice?style=flat-square&amp;color=blue&amp;label=Repo%20Size)
-![Stars](https://img.shields.io/github/stars/siddynk/dsa-practice?style=flat-square&amp;color=yellow&amp;label=Stars)
-![Profile Views](https://komarev.com/ghpvc/?username=siddynk&amp;style=flat-square&amp;color=orange&amp;label=Profile+Views)
+![Last Commit](https://img.shields.io/github/last-commit/siddynk/dsa-practice?style=flat-square&color=6C63FF&label=Last%20Updated)
+![Repo Size](https://img.shields.io/github/repo-size/siddynk/dsa-practice?style=flat-square&color=blue&label=Repo%20Size)
+![Stars](https://img.shields.io/github/stars/siddynk/dsa-practice?style=flat-square&color=yellow&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=siddynk&style=flat-square&color=orange&label=Profile+Views)
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
@@ -45,8 +45,8 @@
 
 | Platform | Difficulty Levels | Status | Languages | Progress |
 |---|---|---|---|---|
-| 🟧 **LeetCode** | 🟢 Easy · 🟡 Medium · 🔴 Hard | ✅ Actively Tracked | Java, MySQL | ![](https://geps.dev/progress/70?dangerColor=800000&amp;warningColor=ff9900&amp;successColor=006600) |
-| 🟩 **GeeksforGeeks** | ⚪ School · 🔵 Basic · 🟢 Easy · 🟡 Medium · 🔴 Hard | ✅ Actively Tracked | Java | ![](https://geps.dev/progress/40?dangerColor=800000&amp;warningColor=ff9900&amp;successColor=006600) |
+| 🟧 **LeetCode** | 🟢 Easy · 🟡 Medium · 🔴 Hard | ✅ Actively Tracked | Java, MySQL | ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=006600) |
+| 🟩 **GeeksforGeeks** | ⚪ School · 🔵 Basic · 🟢 Easy · 🟡 Medium · 🔴 Hard | ✅ Actively Tracked | Java | ![](https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=006600) |
 
 ---
 
@@ -176,7 +176,7 @@ class Solution {
 
 <div align="center">
 
-![](https://geps.dev/progress/40?dangerColor=800000&amp;warningColor=ff9900&amp;successColor=006600)
+![](https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 **119 / 300 Problems Solved**
 
@@ -197,9 +197,9 @@ class Solution {
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-siddynk-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/siddynk)
-[![LeetCode](https://img.shields.io/badge/LeetCode-sidspams-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white)](https://leetcode.com/sidspams/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nayak--sid-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/nayak-sid)
+[![GitHub](https://img.shields.io/badge/GitHub-siddynk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddynk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sidspams-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sidspams/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nayak--sid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayak-sid)
 
 <br>
 
@@ -207,6 +207,6 @@ class Solution {
 
 ### ⭐ If this repository helped you, consider giving it a star!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=footer&amp;animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&animation=twinkling)
 
 </div>
