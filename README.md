@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DSA%20Practice&fontSize=70&animation=twinkling&fontAlignY=35&desc=Data%20Structures%20%26%20Algorithms%20Solutions%20by%20Sid%20Nayak&descAlignY=55&descSize=18&fontColor=ffffff)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Solving+one+problem+at+a+time+%F0%9F%9A%80;119%2B+Problems+Solved+%E2%9C%85;Java+%7C+MySQL+%7C+Clean+Code+%F0%9F%92%BB;LeetCode+%2B+GeeksforGeeks+Tracked+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Solving+one+problem+at+a+time+%F0%9F%9A%80;119%2B+Problems+Solved+%E2%9C%85;Java+%7C+MySQL+%7C+Clean+Code+%F0%9F%92%BB;LeetCode+%2B+GeeksforGeeks+Tracked+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
 
 <br>
@@ -38,8 +38,8 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/sidspams?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddynk&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FFA116&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%"/>
+<img src="https://leetcard.jacoblin.cool/sidspams?theme=dark&amp;font=Fira%20Code&amp;ext=heatmap" alt="LeetCode Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddynk&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=FFA116&amp;currStreakLabel=58A6FF" alt="GitHub Streak" width="48%"/>
 
 </div>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode,idea&amp;theme=dark" />
 
 </div>
 
