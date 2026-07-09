@@ -210,3 +210,15 @@ class Solution {
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&animation=twinkling)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/siddynk/dsa-practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/siddynk/dsa-practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
