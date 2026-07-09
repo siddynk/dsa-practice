@@ -1,0 +1,53 @@
+name: Auto Organize LeetCode Questions
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'Easy/**'
+      - 'Medium/**'
+      - 'Hard/**'
+      - '.github/**'
+
+jobs:
+  organize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Organize Folders By Difficulty
+        run: |
+          mkdir -p Easy Medium Hard
+          for dir in */; do
+            dir=${dir%/}
+            if [[ "$dir" == "Easy" || "$dir" == "Medium" || "$dir" == "Hard" || "$dir" == ".github" ]]; then
+              continue
+            fi
+            if [ -f "$dir/README.md" ]; then
+              content=$(head -n 20 "$dir/README.md" | tr '[:upper:]' '[:lower:]')
+              if [[ "$content" == *"easy"* ]]; then
+                mv "$dir" "Easy/"
+              elif [[ "$content" == *"medium"* ]]; then
+                mv "$dir" "Medium/"
+              elif [[ "$content" == *"hard"* ]]; then
+                mv "$dir" "Hard/"
+              fi
+            fi
+          done
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No new folders to organize."
+          else
+            git commit -m "Auto-organized new LeetCode questions [skip ci]"
+            git push origin main
+          fi
