@@ -224,6 +224,7 @@ class Solution {
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/siddynk/dsa-practice/tree/master/0060-permutation-sequence) |
 | [0096-unique-binary-search-trees](https://github.com/siddynk/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 ## Dynamic Programming
 |  |
@@ -249,4 +250,8 @@ class Solution {
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/siddynk/dsa-practice/tree/master/0095-unique-binary-search-trees-ii) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/siddynk/dsa-practice/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
