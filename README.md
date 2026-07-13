@@ -217,6 +217,7 @@ class Solution {
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddynk/dsa-practice/tree/master/0001-two-sum) |
+| [0047-permutations-ii](https://github.com/siddynk/dsa-practice/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -249,9 +250,14 @@ class Solution {
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/siddynk/dsa-practice/tree/master/0047-permutations-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/siddynk/dsa-practice/tree/master/0095-unique-binary-search-trees-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/siddynk/dsa-practice/tree/master/0060-permutation-sequence) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/siddynk/dsa-practice/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
