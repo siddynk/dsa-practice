@@ -260,4 +260,12 @@ class Solution {
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/siddynk/dsa-practice/tree/master/0047-permutations-ii) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/siddynk/dsa-practice/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/siddynk/dsa-practice/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
