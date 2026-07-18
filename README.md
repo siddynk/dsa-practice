@@ -218,6 +218,7 @@ class Solution {
 | ------- |
 | [0001-two-sum](https://github.com/siddynk/dsa-practice/tree/master/0001-two-sum) |
 | [0047-permutations-ii](https://github.com/siddynk/dsa-practice/tree/master/0047-permutations-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/siddynk/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddynk/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/siddynk/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -230,6 +231,7 @@ class Solution {
 | ------- |
 | [0060-permutation-sequence](https://github.com/siddynk/dsa-practice/tree/master/0060-permutation-sequence) |
 | [0096-unique-binary-search-trees](https://github.com/siddynk/dsa-practice/tree/master/0096-unique-binary-search-trees) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/siddynk/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddynk/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/siddynk/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/siddynk/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -279,6 +281,7 @@ class Solution {
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/siddynk/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddynk/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/siddynk/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/siddynk/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
