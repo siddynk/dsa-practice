@@ -274,10 +274,12 @@ class Solution {
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/siddynk/dsa-practice/tree/master/0071-simplify-path) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddynk/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/siddynk/dsa-practice/tree/master/0071-simplify-path) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddynk/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
 |  |
 | ------- |
@@ -305,4 +307,12 @@ class Solution {
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddynk/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddynk/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddynk/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
