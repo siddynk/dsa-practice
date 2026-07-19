@@ -245,17 +245,20 @@ class Solution {
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/siddynk/dsa-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/siddynk/dsa-practice/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/siddynk/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/siddynk/dsa-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/siddynk/dsa-practice/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/siddynk/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddynk/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/siddynk/dsa-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/siddynk/dsa-practice/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/siddynk/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -315,4 +318,8 @@ class Solution {
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddynk/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/siddynk/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
