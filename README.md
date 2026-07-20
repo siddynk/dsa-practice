@@ -218,6 +218,7 @@ class Solution {
 | ------- |
 | [0001-two-sum](https://github.com/siddynk/dsa-practice/tree/master/0001-two-sum) |
 | [0047-permutations-ii](https://github.com/siddynk/dsa-practice/tree/master/0047-permutations-ii) |
+| [1260-shift-2d-grid](https://github.com/siddynk/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddynk/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddynk/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/siddynk/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -297,6 +298,7 @@ class Solution {
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/siddynk/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/siddynk/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -322,4 +324,8 @@ class Solution {
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/siddynk/dsa-practice/tree/master/0098-validate-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/siddynk/dsa-practice/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
