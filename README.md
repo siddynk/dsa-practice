@@ -279,6 +279,7 @@ class Solution {
 | ------- |
 | [0071-simplify-path](https://github.com/siddynk/dsa-practice/tree/master/0071-simplify-path) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddynk/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/siddynk/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -328,4 +329,8 @@ class Solution {
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/siddynk/dsa-practice/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/siddynk/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
