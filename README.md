@@ -218,6 +218,7 @@ class Solution {
 | ------- |
 | [0001-two-sum](https://github.com/siddynk/dsa-practice/tree/master/0001-two-sum) |
 | [0047-permutations-ii](https://github.com/siddynk/dsa-practice/tree/master/0047-permutations-ii) |
+| [0486-predict-the-winner](https://github.com/siddynk/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddynk/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/siddynk/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddynk/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -239,6 +240,7 @@ class Solution {
 | ------- |
 | [0060-permutation-sequence](https://github.com/siddynk/dsa-practice/tree/master/0060-permutation-sequence) |
 | [0096-unique-binary-search-trees](https://github.com/siddynk/dsa-practice/tree/master/0096-unique-binary-search-trees) |
+| [0486-predict-the-winner](https://github.com/siddynk/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddynk/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddynk/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddynk/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -254,6 +256,7 @@ class Solution {
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/siddynk/dsa-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/siddynk/dsa-practice/tree/master/0096-unique-binary-search-trees) |
+| [0486-predict-the-winner](https://github.com/siddynk/dsa-practice/tree/master/0486-predict-the-winner) |
 ## Tree
 |  |
 | ------- |
@@ -283,6 +286,7 @@ class Solution {
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/siddynk/dsa-practice/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/siddynk/dsa-practice/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -374,4 +378,8 @@ class Solution {
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddynk/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/siddynk/dsa-practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
