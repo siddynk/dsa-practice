@@ -217,6 +217,7 @@ class Solution {
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddynk/dsa-practice/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/siddynk/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/siddynk/dsa-practice/tree/master/0047-permutations-ii) |
 | [0486-predict-the-winner](https://github.com/siddynk/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddynk/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -234,6 +235,7 @@ class Solution {
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddynk/dsa-practice/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/siddynk/dsa-practice/tree/master/0036-valid-sudoku) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddynk/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddynk/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/siddynk/dsa-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -365,6 +367,7 @@ class Solution {
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/siddynk/dsa-practice/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/siddynk/dsa-practice/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
