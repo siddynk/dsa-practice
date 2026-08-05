@@ -364,6 +364,7 @@ class Solution {
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/siddynk/dsa-practice/tree/master/0098-validate-binary-search-tree) |
+| [3310-remove-methods-from-project](https://github.com/siddynk/dsa-practice/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -392,4 +393,12 @@ class Solution {
 | ------- |
 | [0486-predict-the-winner](https://github.com/siddynk/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/siddynk/dsa-practice/tree/master/0877-stone-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/siddynk/dsa-practice/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/siddynk/dsa-practice/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
