@@ -403,4 +403,8 @@ class Solution {
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/siddynk/dsa-practice/tree/master/3310-remove-methods-from-project) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/siddynk/dsa-practice/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
