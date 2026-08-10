@@ -219,6 +219,7 @@ class Solution {
 | [0001-two-sum](https://github.com/siddynk/dsa-practice/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/siddynk/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/siddynk/dsa-practice/tree/master/0047-permutations-ii) |
+| [0118-pascals-triangle](https://github.com/siddynk/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/siddynk/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddynk/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/siddynk/dsa-practice/tree/master/0877-stone-game) |
@@ -265,6 +266,7 @@ class Solution {
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/siddynk/dsa-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/siddynk/dsa-practice/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/siddynk/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/siddynk/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/siddynk/dsa-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/siddynk/dsa-practice/tree/master/1140-stone-game-ii) |
