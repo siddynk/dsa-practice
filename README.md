@@ -417,6 +417,7 @@ class Solution {
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/siddynk/dsa-practice/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/siddynk/dsa-practice/tree/master/0197-rising-temperature) |
 ## Minimax
 |  |
