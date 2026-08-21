@@ -284,6 +284,7 @@ class Solution {
 | [0095-unique-binary-search-trees-ii](https://github.com/siddynk/dsa-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/siddynk/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/siddynk/dsa-practice/tree/master/0098-validate-binary-search-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/siddynk/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -298,6 +299,7 @@ class Solution {
 | [0095-unique-binary-search-trees-ii](https://github.com/siddynk/dsa-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/siddynk/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/siddynk/dsa-practice/tree/master/0098-validate-binary-search-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/siddynk/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -335,6 +337,7 @@ class Solution {
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/siddynk/dsa-practice/tree/master/0071-simplify-path) |
+| [0145-binary-tree-postorder-traversal](https://github.com/siddynk/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddynk/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
 |  |
@@ -384,6 +387,7 @@ class Solution {
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/siddynk/dsa-practice/tree/master/0098-validate-binary-search-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/siddynk/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/siddynk/dsa-practice/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
