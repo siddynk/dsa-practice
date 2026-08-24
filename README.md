@@ -284,6 +284,7 @@ class Solution {
 | [0095-unique-binary-search-trees-ii](https://github.com/siddynk/dsa-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/siddynk/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/siddynk/dsa-practice/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/siddynk/dsa-practice/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddynk/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -299,6 +300,7 @@ class Solution {
 | [0095-unique-binary-search-trees-ii](https://github.com/siddynk/dsa-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/siddynk/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/siddynk/dsa-practice/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/siddynk/dsa-practice/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddynk/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 ## Backtracking
 |  |
@@ -387,6 +389,7 @@ class Solution {
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/siddynk/dsa-practice/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/siddynk/dsa-practice/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/siddynk/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/siddynk/dsa-practice/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -424,6 +427,7 @@ class Solution {
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/siddynk/dsa-practice/tree/master/0112-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/siddynk/dsa-practice/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
