@@ -228,6 +228,7 @@ class Solution {
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddynk/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/siddynk/dsa-practice/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddynk/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/siddynk/dsa-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddynk/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/siddynk/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/siddynk/dsa-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -321,6 +322,7 @@ class Solution {
 | [0147-insertion-sort-list](https://github.com/siddynk/dsa-practice/tree/master/0147-insertion-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddynk/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddynk/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/siddynk/dsa-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddynk/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/siddynk/dsa-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/siddynk/dsa-practice/tree/master/3731-find-missing-elements) |
@@ -456,4 +458,8 @@ class Solution {
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/siddynk/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/siddynk/dsa-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
