@@ -228,6 +228,7 @@ class Solution {
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddynk/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/siddynk/dsa-practice/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddynk/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/siddynk/dsa-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/siddynk/dsa-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddynk/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/siddynk/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -382,6 +383,7 @@ class Solution {
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/siddynk/dsa-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/siddynk/dsa-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddynk/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddynk/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/siddynk/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
