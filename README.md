@@ -266,6 +266,7 @@ class Solution {
 | [0877-stone-game](https://github.com/siddynk/dsa-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/siddynk/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/siddynk/dsa-practice/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/siddynk/dsa-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddynk/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/siddynk/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddynk/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -287,6 +288,7 @@ class Solution {
 | [0877-stone-game](https://github.com/siddynk/dsa-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/siddynk/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/siddynk/dsa-practice/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/siddynk/dsa-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/siddynk/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
 |  |
@@ -373,6 +375,7 @@ class Solution {
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/siddynk/dsa-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddynk/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/siddynk/dsa-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
@@ -385,6 +388,7 @@ class Solution {
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/siddynk/dsa-practice/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/siddynk/dsa-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddynk/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/siddynk/dsa-practice/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
