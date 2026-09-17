@@ -226,6 +226,7 @@ class Solution {
 | [1140-stone-game-ii](https://github.com/siddynk/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/siddynk/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddynk/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddynk/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/siddynk/dsa-practice/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/siddynk/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/siddynk/dsa-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -247,6 +248,7 @@ class Solution {
 | ------- |
 | [0001-two-sum](https://github.com/siddynk/dsa-practice/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/siddynk/dsa-practice/tree/master/0036-valid-sudoku) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddynk/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/siddynk/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/siddynk/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddynk/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -287,6 +289,7 @@ class Solution {
 | [0486-predict-the-winner](https://github.com/siddynk/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/siddynk/dsa-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/siddynk/dsa-practice/tree/master/1140-stone-game-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddynk/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/siddynk/dsa-practice/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/siddynk/dsa-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/siddynk/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -304,6 +307,7 @@ class Solution {
 | [0095-unique-binary-search-trees-ii](https://github.com/siddynk/dsa-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/siddynk/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/siddynk/dsa-practice/tree/master/0098-validate-binary-search-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddynk/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/siddynk/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/siddynk/dsa-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Tree
@@ -475,6 +479,7 @@ class Solution {
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/siddynk/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/siddynk/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
 |  |
