@@ -260,6 +260,7 @@ class Solution {
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/siddynk/dsa-practice/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/siddynk/dsa-practice/tree/master/0060-permutation-sequence) |
 | [0096-unique-binary-search-trees](https://github.com/siddynk/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0342-power-of-four](https://github.com/siddynk/dsa-practice/tree/master/0342-power-of-four) |
