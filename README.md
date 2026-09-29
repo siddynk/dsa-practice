@@ -219,6 +219,7 @@ class Solution {
 | [0001-two-sum](https://github.com/siddynk/dsa-practice/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/siddynk/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/siddynk/dsa-practice/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/siddynk/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/siddynk/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/siddynk/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddynk/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -337,6 +338,7 @@ class Solution {
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/siddynk/dsa-practice/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/siddynk/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/siddynk/dsa-practice/tree/master/0147-insertion-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/siddynk/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddynk/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -373,6 +375,7 @@ class Solution {
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/siddynk/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/siddynk/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/siddynk/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
